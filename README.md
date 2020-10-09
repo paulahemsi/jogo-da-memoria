@@ -5,4 +5,7 @@ O tradicional jogo da memória: você escolhe uma imagem e tenta achar o par. Qu
 
 ![](jogo-da-memoria.gif)
 
+[link para jogar =)](
+ https://paulahemsi.github.io/jogo-da-memoria/)
+
 Imagens usadas no jogo são do espetáculo Há Dias Que Não Morro das ultraVioleta_s feitas pelo coletivo Bijari.
