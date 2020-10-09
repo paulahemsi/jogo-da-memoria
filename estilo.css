@@ -30,10 +30,6 @@ body {
     transform: scale(1);
 }
 
-.cartas:hover {
-    cursor: pointer;
-}
-
 .cartas:active {
     transform: scale(.95);
     /*transition para deixar o efeito mais suave*/
